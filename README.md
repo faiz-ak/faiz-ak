@@ -1,4 +1,4 @@
-![logo](https://github.com/faizan-blip/faizan-blip/blob/main/FAI.jpeg)
+<img align="center" alt="coding" width="1000" src="https://us.123rf.com/450wm/andreysuslov/andreysuslov1905/andreysuslov190500001/122585893-web-design-and-coding-in-internet-page-development-languages-designer-develops-site-layout-in.jpg?ver=6">
 <h1 align="center">Hi 👋, I'm Faizan Akram</h1>
 <h3 align="center">A passionate Frontend Developer & UI/UX Designer from India</h3>
 
