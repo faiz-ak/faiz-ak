@@ -1,3 +1,4 @@
+![logo](https://github.com/faizan-blip/faizan-blip/blob/main/FAI.jpeg)
 <h1 align="center">Hi 👋, I'm Faizan Akram</h1>
 <h3 align="center">A passionate Frontend Developer & UI/UX Designer from India</h3>
 
