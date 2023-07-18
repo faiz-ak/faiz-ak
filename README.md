@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/faizan-akram-3a5a12247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizan-akram-3a5a12247" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/faizan-akram-3a5a12247" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13930&format=png" alt="faizan-akram-3a5a12247" height="30" width="40" /></a>
 <a href="https://fb.com/faizan.rox.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faizan.rox.56" height="30" width="40" /></a>
 <a href="https://instagram.com/f_.a_.i_.z_.a_.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="f_.a_.i_.z_.a_.n" height="30" width="40" /></a>
 <a href="https://dribbble.com/faizan_akram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="faizan_akram" height="30" width="40" /></a>
