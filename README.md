@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **faizanrock753@gmail.com**
 
-- 📄 Know about my experiences[(https://www.hipdf.com/download-file?share_id=dMcR2HM_MiZzW4T4uo_Y9g)
-
 - ⚡ Fun fact **I am a Developer🧑‍💻**
 
 <h3 align="left">Connect with me:</h3>
