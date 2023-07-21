@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan-blip&label=Profile%20views&color=0e75b6&style=flat" alt="faizan-blip" /> </p>
 
-- 🌱 I’m currently working on **React-Js , Next-Js** and learning **Mongo-DB** ,  **Express-js**
+- 🌱 I’m currently working on **React-Js , Next-Js** , **Mongo-DB** ,  **Express-js**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/faizan.akram](https://linktr.ee/faizan.akram)
 
