@@ -1,5 +1,5 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQ2MnhkdTF6ODlraG85dDAxNTRobTVxbHF2MHZtaXcycjAxemJrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="100%" />
-<h1 align="center">Hi 👋, Myself Faizan Akram a passionate Full Stack Web Developer & UI/UX Designer from India.</h1>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQ2MnhkdTF6ODlraG85dDAxNTRobTVxbHF2MHZtaXcycjAxemJrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400" />
+<h1 align="center">Hi 👋, I'm Faizan Akram, a passionate Full Stack Web Developer & UI/UX Designer from India.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan-blip&label=Profile%20views&color=0e75b6&style=flat" alt="faizan-blip" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizan-blip&theme=darkhub" alt="faizan-blip" /></a> </p>
