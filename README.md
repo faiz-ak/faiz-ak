@@ -11,7 +11,7 @@
 - 📫 How to reach me **faizanakram2786@gmail.com**
 - 👨‍💻 All of my projects are available at **https://faizanak-portfolio.netlify.app/**
 - 📄 Know about my experiences [Faizanakresume.pdf](https://github.com/faizan-blip/faizan-blip/files/14360919/Faizanakresume.pdf)
-- ⚡ Fun fact **I code like a wizard: waving my keyboard and casting spells to make bugs disappear!🧙‍♂️✨💻**
+- ⚡ Fun fact: **I code like a wizard waving my keyboard and casting spells to make bugs disappear!🧙‍♂️✨💻**
 
 <div> <a href="https://www.linkedin.com/in/faizan-akram-3a5a12247" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/faizan-blip" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
