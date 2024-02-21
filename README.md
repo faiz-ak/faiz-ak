@@ -1,10 +1,11 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+![poster](https://github.com/faizan-blip/faizan-blip/assets/100079631/3a92a73f-c70c-4d89-a6d0-7a040f8489c6)
 <h1 align="center">Hi 👋, I'm Faizan Akram, a passionate Full Stack Web Developer & UI/UX Designer from India.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan-blip&label=Profile%20views&color=0e75b6&style=flat" alt="faizan-blip" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizan-blip&theme=darkhub" alt="faizan-blip" /></a> </p>
 
 - 🔭 I’m currently working on [Bikerz-Rentals](https://github.com/faizan-blip/Bikerz-Rentals)
+
 - 🌱 I’m currently learning **Docker and Kubernates**
 
 - 📫 How to reach me **faizanakram2786@gmail.com**
