@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/images/c532a69a5978f7cfb2fc2b6ab24ebcfe/tenor.gif" alt="Girlfriend Image" width="200" height="200">
+  <img src="https://media.tenor.com/images/c532a69a5978f7cfb2fc2b6ab24ebcfe/tenor.gif" alt="Girlfriend Image" width="500" height="500">
 </div>
 
 <h1 align="center">
