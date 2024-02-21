@@ -9,34 +9,6 @@
 <h3 align="center">
   <span style="border-right: 2px solid white; padding-right: 8px;" id="typewriter-h3">A passionate Full Stack Web Developer & UI/UX Designer from India.</span>
 </h3>
-
-<style>
-  @keyframes typing {
-    from { width: 0; }
-    to { width: 100%; }
-  }
-
-  #typewriter-h1, #typewriter-h3 {
-    overflow: hidden;
-    white-space: nowrap;
-    margin: 0;
-    letter-spacing: 4px;
-  }
-
-  #typewriter-h1 {
-    animation: typing 2s steps(20, end), blink-caret 0.5s step-end infinite alternate;
-  }
-
-  #typewriter-h3 {
-    animation: typing 2s steps(40, end), blink-caret 0.5s step-end infinite alternate;
-  }
-
-  @keyframes blink-caret {
-    from, to { border-color: transparent; }
-    50% { border-color: white; }
-  }
-</style>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan-blip&label=Profile%20views&color=0e75b6&style=flat" alt="faizan-blip" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizan-blip" alt="faizan-blip" /></a> </p>
