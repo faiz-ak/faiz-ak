@@ -1,4 +1,6 @@
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<div>
+  <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+</div>
 <h1 align="center">Hi 👋, I'm Faizan Akram</h1>
 <h3 align="center">A passionate Full Stack Web Developer & UI/UX Designer from India.</h3>
 
