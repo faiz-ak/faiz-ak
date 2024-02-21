@@ -1,8 +1,41 @@
-<div>
-  <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<div align="center">
+  <img src="your_image_url_here" alt="Girlfriend Image" width="200" height="200">
 </div>
-<h1 align="center">Hi 👋, I'm Faizan Akram</h1>
-<h3 align="center">A passionate Full Stack Web Developer & UI/UX Designer from India.</h3>
+
+<h1 align="center">
+  <span style="border-right: 2px solid white; padding-right: 8px;" id="typewriter-h1">Hi 👋, I'm Faizan Akram</span>
+</h1>
+
+<h3 align="center">
+  <span style="border-right: 2px solid white; padding-right: 8px;" id="typewriter-h3">A passionate Full Stack Web Developer & UI/UX Designer from India.</span>
+</h3>
+
+<style>
+  @keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+  }
+
+  #typewriter-h1, #typewriter-h3 {
+    overflow: hidden;
+    white-space: nowrap;
+    margin: 0;
+    letter-spacing: 4px;
+  }
+
+  #typewriter-h1 {
+    animation: typing 2s steps(20, end), blink-caret 0.5s step-end infinite alternate;
+  }
+
+  #typewriter-h3 {
+    animation: typing 2s steps(40, end), blink-caret 0.5s step-end infinite alternate;
+  }
+
+  @keyframes blink-caret {
+    from, to { border-color: transparent; }
+    50% { border-color: white; }
+  }
+</style>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan-blip&label=Profile%20views&color=0e75b6&style=flat" alt="faizan-blip" /> </p>
 
