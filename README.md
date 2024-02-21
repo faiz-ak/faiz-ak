@@ -9,9 +9,9 @@
 <h3 align="center">
   <span style="border-right: 2px solid white; padding-right: 8px;" id="typewriter-h3">A passionate Full Stack Web Developer & UI/UX Designer from India.</span>
 </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan-blip&label=Profile%20views&color=0e75b6&style=flat" alt="faizan-blip" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan-blip&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="faizan-blip" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizan-blip" alt="faizan-blip" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizan-blip&theme=dark" alt="faizan-blip" /></a> </p>
 
 - 🔭 I’m currently working on [Bikerz-Rentals](https://github.com/faizan-blip/Bikerz-Rentals)
 
