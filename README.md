@@ -1,4 +1,4 @@
-![poster](https://github.com/faizan-blip/faizan-blip/assets/100079631/3a92a73f-c70c-4d89-a6d0-7a040f8489c6)
+![poster](https://media.licdn.com/dms/image/D5616AQEljhWs10emPg/profile-displaybackgroundimage-shrink_350_1400/0/1716456119271?e=1721865600&v=beta&t=TWHg4JhHV7t5FTAGyTXfcuhdfd1GFW5teKqGoZZDBjs)
 <h1 align="center">Hi 👋, I'm Faizan Akram, a passionate Full Stack Web Developer & UI/UX Designer from India.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan-blip&label=Profile%20views&color=0e75b6&style=flat" alt="faizan-blip" /> </p>
 
