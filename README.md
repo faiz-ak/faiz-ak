@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Gemini-C](https://github.com/faizan-blip/Gemini)
 
-- 🌱 I’m currently learning **Docker and Kubernates**
+- 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **faizanakram2786@gmail.com**
 - 👨‍💻 All of my projects are available at **https://faizanak-portfolio.netlify.app/**
