@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizan-blip&theme=darkhub" alt="faizan-blip" /></a> </p>
 
-- 🔭 I’m currently working on [Gemini-C](https://github.com/faizan-blip/Doc-care-backend-)
+- 🔭 I’m currently working on [Doc-care backend](https://github.com/faizan-blip/Doc-care-backend-)
 
 - 🌱 I’m currently learning **Docker**
 
