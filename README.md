@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Doc-care backend](https://github.com/faizan-blip/Doc-care-backend-)
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Docker, JAVA**
 
 - 📫 How to reach me **faizanakram2786@gmail.com**
 - 👨‍💻 All of my projects are available at **https://faizanak-portfolio.netlify.app/**
