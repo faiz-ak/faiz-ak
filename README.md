@@ -1,10 +1,10 @@
 ![poster](https://github.com/faizan-blip/faizan-blip/blob/17215226de3fb6398544864f2a7f1e25c6279d7c/1716456119271.jpeg)
 <h1 align="center">Hi 👋, I'm Faizan Akram, a passionate Full Stack Web Developer & UI/UX Designer from India.</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan-blip&label=Profile%20views&color=0e75b6&style=flat" alt="faizan-blip" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan-blip&label=Profile%20views&color=0e75b6&style=flat" alt="faiz-ak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizan-blip&theme=darkhub" alt="faizan-blip" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizan-blip&theme=darkhub" alt="faiz-ak" /></a> </p>
 
-- 🔭 I’m currently working on [Doc-care backend](https://github.com/faizan-blip/Doc-care-backend-)
+- 🔭 I’m currently working on [Doc-care backend](https://github.com/faiz-ak/Doc-care-backend-)
 
 - 🌱 I’m currently learning **Docker, JAVA**
 
@@ -14,7 +14,7 @@
 - ⚡ Fun fact: **I code like a wizard waving my keyboard and casting spells to make bugs disappear!🧙‍♂️✨💻**
 
 <div> <a href="https://www.linkedin.com/in/faizan-akram-3a5a12247" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/faizan-blip" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/faiz-ak" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/f_.a_.i_.z_.a_.n" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:faizanakram2786@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
@@ -48,22 +48,22 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-blip&layout=compact&theme=dark" alt=faizan-blip />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiz-ak&layout=compact&theme=dark" alt=faiz-ak />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=faizan-blip&show_icons=true&locale=en&theme=dark" alt="faizan-blip" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=faiz-ak&show_icons=true&locale=en&theme=dark" alt="faiz-ak" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan-blip&theme=github-dark" alt="faizan-blip" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=faiz-ak&theme=github-dark" alt="faiz-ak" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/faizan-blip">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=faizan-blip&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faizan-blip&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faizan-blip&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faizan-blip&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizan-blip&theme=github_dark" height="180em" />
+<a href="https://github.com/faiz-ak">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=faiz-ak&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faiz-ak&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faiz-ak&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faiz-ak&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faiz-ak&theme=github_dark" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=faizan-blip&theme=github-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=faiz-ak&theme=github-dark"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
