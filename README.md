@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizan-blip&theme=darkhub" alt="faiz-ak" /></a> </p>
 
-- 🔭 I’m currently working on [Doc-care backend](https://github.com/faiz-ak/Doc-care-backend-)
+- 🔭 I’m currently working on [RMS](https://github.com/faiz-ak/RestaurantManagementSystem)
 
-- 🌱 I’m currently learning **Docker, JAVA**
+- 🌱 I’m currently learning **SPRING BOOT**
 
 - 📫 How to reach me **faizanakram2786@gmail.com**
 - 👨‍💻 All of my projects are available at **https://faizanak-portfolio.netlify.app/**
