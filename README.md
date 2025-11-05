@@ -1,5 +1,5 @@
 ![poster](https://media.licdn.com/dms/image/v2/D5616AQEML1Re4f29yw/profile-displaybackgroundimage-shrink_350_1400/B56ZpPiE_EKAAY-/0/1762270926948?e=1764201600&v=beta&t=HXF2odJ8qYkavBtnPlbZujgFN3_xc4lczxFwpDJjgps)
-<h1 align="center">Hi 👋, I'm Faizan Akram, a passionate Full Stack Web Developer & UI/UX Designer from India.</h1>
+<h1 align="center">Hi 👋, I'm Faizan Akram, a passionate Full Stack Developer & UI/UX Designer from India.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan-blip&label=Profile%20views&color=0e75b6&style=flat" alt="faiz-ak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizan-blip&theme=darkhub" alt="faiz-ak" /></a> </p>
