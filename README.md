@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [RMS](https://github.com/faiz-ak/RestaurantManagementSystem)
 
-- 🌱 I’m currently learning **SPRING BOOT**
+- 🌱 I’m currently learning **SPRING BOOT & MICROSERVICES**
 
 - 📫 How to reach me **faizanakram2786@gmail.com**
 - 👨‍💻 All of my projects are available at **https://faizanak-portfolio.netlify.app/**
